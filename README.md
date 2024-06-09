@@ -1,7 +1,7 @@
-Flutter Admin Dashboard by Sajawal
+Flutter Admin Dashboard by Sajawal and Shoaib
 
 Overview
-The Flutter Admin Dashboard by Sajawal is a responsive and customizable admin dashboard template built using Flutter. It provides a clean and modern interface to manage various administrative tasks and data visualization needs.
+The Flutter Admin Dashboard by Sajawal and Shoaib is a responsive and customizable admin dashboard template built using Flutter. It provides a clean and modern interface to manage various administrative tasks and data visualization needs.
 
 Features
 Responsive design for mobile, tablet, and desktop
@@ -36,4 +36,5 @@ For any inquiries or feedback, feel free to reach out:
 
 Author: Sajawal
 Email: sajawalsajjadch8996@gmail.com
+Shoaib's Email:Dudybaadshah@gmail.com
 GitHub: github.com/Sajawal-Sajjad
